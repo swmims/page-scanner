@@ -1,0 +1,4 @@
+URL,ERROR,MATCH_SCORE_INDUSTRY,SCORE,BAYES_INDUSTRY
+http://www.website2.com,,,
+http://www.website3.com,,,
+http://www.website1.com,Error: getaddrinfo ENOTFOUND www.website1.com www.website1.com:80,,

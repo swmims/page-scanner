@@ -1,0 +1,14 @@
+[{
+  "industry":"Industry 1",
+  "positive":[ "keyword1.*keyword2|keyword2.*keyword1", "keyword3"],
+  "negative":["keyword4"],
+  "relevant": [ "keyword5","keyword6","keyword7" ],
+  "irrelevant": []
+},
+{
+  "industry":"Industry 2",
+  "positive":[ "keyword6"],
+  "negative":["keyword7", "keyword8"],
+  "relevant": [ "keyword9.*keyword10|keyword10.*keyword9"],
+  "irrelevant": [ "keyword11" ]
+}]
